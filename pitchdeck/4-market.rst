@@ -11,74 +11,84 @@ The Market
 
 :class: content columns
 
-Creative Industry Market
-========================
+Market Assumptions: Top-Down
+============================
 
-* $3T
+* creative industry
 
-  - creative industry
+  - $3T
+      (2025) Unesco & EY / gov.uk
 
-* $300B
+* generative market
 
-  - generative market
+  - $300B
+      (2018) Gartner / prediction
 
-* 10%
+* creative.ai target
   
-  - creative.ai share
+  - 10%
+      Growth over ~10 years
 
-----
-
-:class: content
-
-Top-Down Analysis
-=================
-
-.. Open question? How will AI change this.
+.. Market Analysis: Top-Down
+.. - Open question? How will AI change this.
 
 ----
 
 :class: content columns
 
-Creative Agencies Market
-========================
+Market Research: Independent Agencies
+=====================================
 
-* €2.5B
+* europe
 
-  - europe
-      # of businesses
-      Design:      456,762
-      Advertising: 108,444
-      Total:       565,206
+  - €2.5B
+      Companies:   565,206 #
 
-* €2.7B
+* north america
 
-  - north america
-      # of businesses
-      Design:      493,303
-      Advertising: 117,120
-      Total:       610,423
+  - €2.7B
+      Companies:   610,423 #
 
-* €9B
+* global
 
-  - global
-      # of businesses
-      Design:      1,365,285
-      Advertising:   653,341
-      Total:       2,018,626
+  - €9B
+      Companies: 2,018,626 #
 
 ----
 
-Conglomerates
-=============
+:id: conglomerates
+:class: content columns
 
-----
+Market Research: Conglomerates
+==============================
 
-:class: content
+* WPP
 
-Bottom-Up Analysis
-==================
+  - $19.4bn
+      Employed: 205k
 
-.. Managing disruption. Future applications!
+* Omnicom
+
+  - $15.42bn
+      Employed: 78k
+
+* Publicis
+
+  - $9.6bn
+      Employed: 79k
+
+* IPG
+
+  - $7.85bn
+      Employed: 50k
+
+* Dentsu
+
+  - $7.17bn
+      Employed: 47k
+
+.. Bottom-Up Analysis
+.. - Managing disruption. Future applications!
 
 ----
 
