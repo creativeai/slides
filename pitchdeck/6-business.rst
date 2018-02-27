@@ -26,7 +26,7 @@ Revenue Model
   - Recurring per seat (€99)
   - 2M design/ad companies globally
   - 12M addressable individual designers (adobe-subscribed designers)
-..  - cap: 12M (12M*99)
+..  - cap: 1.2B (12M*99)
  
 ----
 
