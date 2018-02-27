@@ -66,21 +66,26 @@ Market Research: Conglomerates
 
   - $19.4bn
       Employed: 205k
+      Offices: 4000
 
 * Omnicom
 
   - $15.42bn
       Employed: 78k
+      Offices: 1500
+..      Clients: 5000
 
 * Publicis
 
   - $9.6bn
       Employed: 79k
+      Offices: 2350
 
 * IPG
 
   - $7.85bn
       Employed: 50k
+      Offices: 1500
 
 * Dentsu
 
@@ -99,9 +104,7 @@ Conglomerate: WPP
 
 * Current engagement: **Grey**
 
-* Engagement since beginning 2018, exploratory phase ongoing rapidly, joint workshop & trial project planned, short iteration cycles!
-
-* 134000 employees, 4000 local offices worldwide to sell our software to
+* Engagement since beginning 2018, exploratory phase ongoing, workshop & trial project being planned, short iteration cycles!
 
 .. image:: images/market_WPP.png
 
@@ -116,8 +119,6 @@ Conglomerate: Publicis
 
 * Engagement since late 2017, Early stages of exploration phase, speed of iteration cycles unclear as of yet.
 
-* 7900 employees, 2350 local offices worldwide to sell our software to
-
 .. image:: images/market_Publicis.png
 
 ----
@@ -129,9 +130,7 @@ Conglomerate: IPG
 
 * Current engagement: **FCB**
 
-* Engagement since 2016, joint workshop in Mexico, exploratory phase finalized, signed cooperation agreement, slow iteration cycles. 
-
-* 50200 employees, 1500 local offices worldwide to sell our software to
+* Engagement since 2016, joint workshop in Mexico, exploratory phase finalized, signed cooperation agreement, slow iteration cycles.
 
 .. image:: images/market_IPG.png
 
