@@ -40,8 +40,8 @@ then they **format us**.
 
 :class: fullscreen top-left
 
-Information Age
-===============
+The Information Age
+===================
 
 .. image:: images/problem_ControlRoom.png
 

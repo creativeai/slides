@@ -9,8 +9,12 @@ The Product
 
 ----
 
+:class: fullscreen
+
 Generative Visual Design
 ========================
+
+.. image:: images/product_VisualEngine.png
 
 ----
 
