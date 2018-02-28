@@ -9,13 +9,23 @@ Investment
 
 ----
 
+:class: rightscreen
+
 Seed Round
 ==========
 
+* Raised €2.2M at a €10M post investing valuation in Q1 2017.
+
+* Currently looking to raise another €3M before A-round.
+
 ----
+
+:class: rightscreen
 
 Next Round
 ==========
+
+* A-round with the aim to scale our product-market fit, and SaaS model globally.
 
 ..  Financials?
     Sales forecast, profit and loss statement, and cash flow forecast for at least three years.
