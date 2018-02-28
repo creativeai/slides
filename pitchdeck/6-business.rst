@@ -12,23 +12,34 @@ The Business
 Revenue Model
 =============
 
-* Custom Onboarding 
-  - One Off (€10-20K)
-  - For early iteration & onbarding of new big clients
-  - 50% prepayment to SaaS (easy SaaS conversion)
-
-* Monthly SaaS Enterprise 
-  - Recurring per campaign per office (€1500)
-  - 7800 local conglomorate offices globally
+* Monthly SaaS Agencies 
+  - Recurring per campaign per office/per output (€1500)
+  - 7800 locations globally
 ..  - cap: 11.7M (1500*7800)
 
-* Monthly SaaS Businesses (Recurring per campaign per office) 
+* Monthly SaaS Studios (Recurring per campaign per office/per output) 
   - Recurring per seat (€99)
   - 2M design/ad companies globally
   - 12M addressable individual designers (adobe-subscribed designers)
 ..  - cap: 1.2B (12M*99)
  
 ----
+
+Onboarding/Conversion
+=============
+
+* Onboarding & Conversion
+  - Trial Project: One-Off for new big clients
+  - Early iteration & matching work flow
+  - Conversion to SaaS: 50% trial fee is prepayment to SaaS
+
+* Upskilling
+
+* Support/Maintenance
+  - Cloud-based, so relative low costs
+ 
+----
+
 
 Defensibility
 =============
