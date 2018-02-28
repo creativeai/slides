@@ -101,7 +101,6 @@ Competitive Landscape
 
 .. image:: images/competition.png
 
-----
 
 .. Bottom-Up Analysis
 .. - Managing disruption. Future applications!
