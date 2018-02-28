@@ -57,14 +57,19 @@ Conglomerate: IPG
 
 ----
 
-:class: content
+:class: rightscreen
 
 Goals & Roadmap
 ===============
 
-* Increasing the number of total customers.
+* Finalize first tool's product-market fit.
 
-* Improving self-service and new features.
+* Increase the total number of clients.
+
+* Develop further creative tools for designers.
+
+* Improve self-service capabilities for agencies.
+
 
 .. https://medium.com/the-mission/simple-saas-financial-model-for-early-stage-startups-13895d07b2be
 

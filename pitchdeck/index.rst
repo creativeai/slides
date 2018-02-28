@@ -10,8 +10,6 @@
 .. image:: images/logo-white.svg
     :class: logo
 
-.. placeholder::
-
 ----
 
 :class: quote

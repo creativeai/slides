@@ -18,6 +18,8 @@ Generative Visual Design
 
 ----
 
+:class: wholescreen
+
 Augmented Collaboration
 =======================
 

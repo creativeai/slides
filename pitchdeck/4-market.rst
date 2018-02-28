@@ -90,11 +90,10 @@ Market Research: Conglomerates
 
   - $7.17bn
       Employed: 47k
+      ´
 
 .. Bottom-Up Analysis
 .. - Managing disruption. Future applications!
-
-----
 
 .. Target Market and Opportunity
 

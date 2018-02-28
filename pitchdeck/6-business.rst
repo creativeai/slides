@@ -9,40 +9,54 @@ The Business
 
 ----
 
-:class: content
+:id: business-model
+:class: wholescreen
 
 Revenue Model
 =============
 
 * Monthly SaaS Agencies 
-  - Recurring per campaign per office/per output (€1500)
-  - 7800 locations globally
+
+  - Recurring per campaign per office/per output 
+  
+  - 7,800 agency offices globally
+
 ..  - cap: 11.7M (1500*7800)
 
-* Monthly SaaS Businesses (Recurring per campaign per office) 
-  - Recurring per seat (€99)
-  - 2M design/advertising companies globally
-  - 12M addressable individual designers (adobe-subscribed designers)
+* Monthly SaaS Businesses
+
+  - Recurring per seat/per output
+
+  - 2,000,000 design/advertising companies globally
+
+  - 12,000,000 addressable individual designers (adobe-subscribed designers)
+
 ..  - cap: 1.2B (12M*99)
  
 ----
 
+:class: wholescreen
+
 Onboarding/Conversion
+=====================
 
 * Onboarding & Conversion
+
   - Trial Project: One-Off for new big clients
+
   - Early iteration & matching work flow
+
   - Conversion to SaaS: 50% trial fee is prepayment to SaaS
 
 * Upskilling
 
 * Support/Maintenance
+
   - Cloud-based, so relative low costs
  
 ----
 
-=======
-:class: leftscreen
+:class: rightscreen
 
 Defensibility
 =============
