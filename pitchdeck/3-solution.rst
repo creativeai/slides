@@ -21,7 +21,7 @@ Let's re-discover things that make us creative.
 
 :class: fullscreen
 
-.. image:: images/Terminator.png
+.. image:: images/solution_MagicalHand.png
 
 Artificial Intelligence opens up possibilities.
 
@@ -53,13 +53,13 @@ Why shouldn't **creators** have
 
 :class: leftscreen
 
-.. image:: images/problem_CreativeAgencies1.png
+.. image:: images/solution_ShelfVials.png
 
 Tools for Creativity
 ====================
 
-* Shared Language
+* Common Language
 
-* Interaction
+* Shared Interaction
 
 * Constructivism
